@@ -1,5 +1,6 @@
 🔬 Lab: Refactoring with Multiple Patterns
 Scenario: Legacy code that needs modernization.
+```
 The Code:
 class ReportGenerator:
     def generate(self, report_type: str, data: Any, include_header: bool,
@@ -31,3 +32,4 @@ class ReportGenerator:
         # ... more nested conditions for footer, compression, etc.
         
         return result
+```
