@@ -1,7 +1,7 @@
-Task: Create method to update customer address
+**Task: Create method to update customer address**
 Example 1:
-# Input: Create a method to get user by ID
-# Output:
+Input: Create a method to get user by ID
+Output:
 ```
 async def get_user_by_id(self, user_id: int) -> Result[UserDTO]:
     user = await self.repository.find_by_id(user_id)
@@ -11,8 +11,8 @@ async def get_user_by_id(self, user_id: int) -> Result[UserDTO]:
     return Result.success(UserDTO.from_entity(user))
 ```
 Example 2:
-# Input: Create a method to delete a product
-# Output:
+Input: Create a method to delete a product
+Output:
 ```
 async def delete_product(self, product_id: int) -> Result[bool]:
     product = await self.repository.find_by_id(product_id)
