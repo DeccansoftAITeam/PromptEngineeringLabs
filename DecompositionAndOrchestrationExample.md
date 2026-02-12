@@ -8,7 +8,7 @@ Note: This produces shallow implementations across all areas, often with inconsi
 
 **b) Decomposed approach:**
 
-**Prompt 1: Design Phase**
+**Prompt 1: Design Phase** 
 Design the data models for a user registration system with email verification.
 Requirements:
 - User can register with email and password
