@@ -1,4 +1,4 @@
-#Scenario: Legacy code that needs modernization.
+# Scenario: Legacy code that needs modernization.
 The Code:
 ```
 class ReportGenerator:
@@ -33,11 +33,10 @@ class ReportGenerator:
         return result
 ```
 **Your Task - Apply these patterns in sequence:**
-Step 1: Chain of Thought Analysis
-Step 2: Step-Back for Strategy
-Step 3: Few-Shot for Implementation
-Step 4: Self-Verification
-
+* Step 1: Chain of Thought Analysis  
+* Step 2: Step-Back for Strategy  
+* Step 3: Few-Shot for Implementation  
+* Step 4: Self-Verification
 
 # Solution
 **Step 1: Chain of Thought Analysis**
