@@ -7,6 +7,7 @@ password hashing, database models, API endpoints, and email templates.
 Note: This produces shallow implementations across all areas, often with inconsistencies.
 
 **b) Decomposed approach:**
+
 **Prompt 1: Design Phase**
 Design the data models for a user registration system with email verification.
 Requirements:
@@ -22,7 +23,8 @@ Output:
 
 Do not implement business logic yet - just the data layer.
 
-**Prompt 2: Core Business Logic**
+
+**Prompt 2: Core Business Logic** 
 Using the models from the previous step implement the UserService class with these methods:
 1. register_user(email, password) -> Result[User]
 2. verify_email(token) -> Result[bool]
