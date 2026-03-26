@@ -1,0 +1,63 @@
+{
+    "query": "What are the top three must-visit attractions in Kyoto, Japan for a first-time visitor?",
+    "response": "For a first-time visitor to Kyoto, the top three must-see attractions are: (1) Fushimi Inari Shrine — famous for its thousands of vermilion torii gates winding up the mountain, open 24 hours and free to enter. (2) Arashiyama Bamboo Grove — a stunning walk through towering bamboo, best visited early morning before crowds arrive. (3) Kinkaku-ji Golden Pavilion — the iconic gold-leaf temple reflecting on its pond, open 9am–5pm with a ¥500 entry fee. All three are reachable from Kyoto Station using the one-day bus pass for ¥700.",
+    "context": "Kyoto's top attractions include Fushimi Inari Shrine (thousands of torii gates, open 24 hours, free entry), Arashiyama Bamboo Grove (best visited early morning to avoid crowds, free, near Tenryu-ji temple), and Kinkaku-ji Golden Pavilion (entry ¥500, open 9am–5pm daily). All three are accessible by bus from Kyoto Station using the one-day bus pass (¥700).",
+    "ground_truth": "The top three Kyoto attractions for first-timers are Fushimi Inari Shrine (free, 24 hours), Arashiyama Bamboo Grove (free, best early morning), and Kinkaku-ji Golden Pavilion (¥500, 9am–5pm). All accessible via the ¥700 one-day bus pass from Kyoto Station."
+}
+
+{
+    "query": "I am vegetarian. What traditional Italian dishes can I safely eat in Rome?",
+    "response": "As a vegetarian in Rome, you have several great traditional options: Cacio e pepe (pasta with pecorino cheese and black pepper) is a Roman classic that is naturally vegetarian. Margherita pizza and bruschetta al pomodoro (grilled bread with tomatoes) are safe choices. Panzanella, a Tuscan bread salad, is another good option. Be cautious with Supplì (fried rice balls) — some contain meat, so always ask. Also note that many Roman pasta sauces use guanciale (cured pork cheek), so always confirm ingredients with staff. Trastevere and Testaccio are the best neighborhoods for authentic dining.",
+    "context": "Traditional Italian vegetarian-friendly dishes include: Cacio e pepe (pasta with pecorino cheese and black pepper), Margherita pizza (tomato and mozzarella), Supplì (fried rice balls with tomato and mozzarella, though some contain meat — ask first), Bruschetta al pomodoro (grilled bread with tomatoes), and Panzanella (Tuscan bread salad). Note: many pasta sauces in Rome use guanciale (cured pork cheek) — always confirm with staff. Restaurants in Trastevere and Testaccio neighborhoods have the most authentic options.",
+    "ground_truth": "Vegetarian-safe Roman dishes include cacio e pepe, Margherita pizza, bruschetta al pomodoro, and panzanella. Supplì may contain meat — always verify. Many pasta sauces use guanciale so always confirm. Best neighborhoods: Trastevere and Testaccio."
+}
+
+{
+    "query": "What is the best way to get from Charles de Gaulle Airport to central Paris?",
+    "response": "The best options to travel from Charles de Gaulle Airport (CDG) to central Paris are: (1) RER B train — the fastest and cheapest option at around €11.80, taking approximately 35 minutes to reach central stations like Châtelet-Les Halles or Gare du Nord. Runs every 10–15 minutes. (2) Roissybus — a direct bus to Opéra taking about 60 minutes, costing €13.70. (3) Taxi — fixed fare of €53 to Right Bank destinations, €58 to Left Bank, taking 45–90 minutes depending on traffic. (4) Uber/VTC — comparable to taxi but bookable via app. Avoid unlicensed taxis at the terminal — always use official ranks or apps."
+}
+
+{
+    "query": "Is it safe for solo female travelers to visit Istanbul at night?",
+    "response": "Istanbul is a popular tourist city. You should use common sense when traveling. It is always good to be careful when traveling alone.",
+    "context": "Istanbul is generally considered safe for solo female travelers with standard precautions. The Sultanahmet, Beyoglu, and Kadiköy neighborhoods are well-lit and lively at night. Avoid poorly lit backstreets in Tarlabaşı and around Taksim late at night. Use licensed taxis (yellow cabs) or the BiTaksi app rather than unlicensed drivers. Dress modestly near mosques. The Istanbul Kart metro system runs until midnight. Emergency number is 155 (police) and 112 (general).",
+    "ground_truth": "Istanbul is generally safe for solo female travelers with precautions. Stick to Sultanahmet, Beyoglu, and Kadiköy at night. Avoid poorly lit areas in Tarlabaşı. Use licensed yellow taxis or BiTaksi app. Metro runs until midnight. Emergency: 155 (police), 112 (general)."
+}
+
+{
+    "query": "How many days should I allocate to properly explore the Amalfi Coast in Italy?",
+    "response": "For a proper Amalfi Coast experience, plan for 3 to 5 days. Spend a full day in Positano exploring the narrow streets, beaches, and boutiques. Amalfi town and Ravello can each be done in half a day — Ravello is especially known for its Villa Rufolo gardens and music festival. Praiano is a quieter, less crowded alternative worth considering. In summer, use ferries between towns rather than driving the coastal road (SS163) which becomes very congested. For accommodation, Positano suits luxury travelers, Amalfi town gives central access, and Sorrento is the most budget-friendly base.",
+    "context": "Travel experts recommend 3–5 days for the Amalfi Coast. Key stops are Positano (1 day — narrow streets, beaches, boutiques), Ravello (half day — Villa Rufolo gardens, classical music festival), Amalfi town (half day — cathedral, paper museum), and Praiano (quieter alternative to Positano). The coastal road (SS163) is scenic but narrow — consider using ferries between towns in summer to avoid traffic. Base towns: Positano for luxury, Amalfi for central access, Sorrento for budget.",
+    "ground_truth": "Plan 3–5 days for the Amalfi Coast. Positano needs a full day; Ravello and Amalfi town each need half a day. Use ferries in summer to avoid SS163 traffic. Base options: Positano (luxury), Amalfi (central), Sorrento (budget)."
+}
+
+{
+    "query": "What street food should I try in Bangkok, Thailand, and where can I find it?",
+    "response": "Bangkok has some of the world's best street food. Must-try items include: Pad Thai (stir-fried rice noodles with egg, tofu or shrimp, peanuts) — best at Thip Samai near Wat Saket. Som Tum (green papaya salad, spicy) — widely available at street carts across the city. Mango Sticky Rice (sweet glutinous rice with fresh mango and coconut milk) — try Or Tor Kor market near Chatuchak. Boat Noodles (rich broth with pork or beef) — best at Victory Monument area. Roti (flaky flatbread with banana and condensed milk) — common near Khao San Road. Yaowarat (Chinatown) is the best single street food destination for evening eating."
+}
+
+{
+    "query": "Do I need a visa to visit Bali, Indonesia, if I am an Indian passport holder?",
+    "response": "Yes, you will need a visa for Bali. Indians can get a visa.",
+    "context": "Indian passport holders can obtain a Visa on Arrival (VoA) at Ngurah Rai International Airport, Bali. The VoA costs USD 35 and grants a 30-day stay, extendable once for another 30 days at the local immigration office. Required documents: valid passport (6 months validity), return ticket, proof of accommodation, and sufficient funds. An e-Visa option is also available via molina.imigrasi.go.id for USD 35 before travel. Visa-free entry does not apply to Indian citizens.",
+    "ground_truth": "Indian passport holders require a Visa on Arrival (USD 35, 30 days, extendable once) at Ngurah Rai Airport. Required: passport with 6 months validity, return ticket, accommodation proof, sufficient funds. E-Visa available at molina.imigrasi.go.id. Visa-free does not apply."
+}
+
+{
+    "query": "What vaccinations or health precautions should I take before visiting sub-Saharan Africa?",
+    "response": "Before visiting sub-Saharan Africa, get the following vaccinations: Yellow Fever (required for entry in many countries — carry your yellow card), Hepatitis A and B, Typhoid, Meningitis, and Rabies if you plan outdoor activities. Malaria prevention is critical — take antimalarial medication as prescribed by your doctor (options include atovaquone-proguanil, doxycycline, or mefloquine). Use DEET-based insect repellent, sleep under treated mosquito nets, and drink only bottled water. Ensure your travel insurance includes medical evacuation coverage. Visit a travel health clinic 4–6 weeks before your departure date.",
+    "context": "Recommended vaccinations for sub-Saharan Africa travel include: Yellow Fever (required for entry to many countries, get certificate), Hepatitis A and B, Typhoid, Meningitis, and Rabies (if outdoor activities planned). Malaria prophylaxis is strongly advised — consult a doctor for the right antimalarial (atovaquone-proguanil, doxycycline, or mefloquine depending on region). Use insect repellent with DEET, sleep under treated nets. Drink only bottled water. Travel insurance with medical evacuation coverage is essential. Visit a travel health clinic 4–6 weeks before departure.",
+    "ground_truth": "Key vaccinations: Yellow Fever (mandatory certificate), Hepatitis A/B, Typhoid, Meningitis, Rabies. Take prescribed antimalarials. Use DEET repellent, treated nets, bottled water. Get travel insurance with medical evacuation. Visit travel health clinic 4–6 weeks before travel."
+}
+
+{
+    "query": "I only have 48 hours in New York City. What is the best itinerary for a first-time visitor?",
+    "response": "For 48 hours in New York City as a first-timer, here is a suggested itinerary. Day 1 morning: Start in Lower Manhattan — visit the Statue of Liberty and Ellis Island (book ferry tickets in advance at statuecruises.com). Afternoon: Walk the Brooklyn Bridge and explore DUMBO for great skyline views and lunch. Evening: Head to Times Square, then dinner in Midtown or Hell's Kitchen. Day 2 morning: Central Park walk, then visit the Metropolitan Museum of Art (suggested donation, plan 2–3 hours). Afternoon: Fifth Avenue and Rockefeller Center — go to Top of the Rock for panoramic views (better value than Empire State Building). Evening: High Line park walk, then dinner in Chelsea or West Village. Use the subway (OMNY contactless tap) to get around — it is the fastest option in Manhattan."
+}
+
+{
+    "query": "What is the best travel insurance policy I should buy for a 2-week trip to Europe?",
+    "response": "Travel insurance is important. You should buy a good policy before traveling to Europe. Make sure it covers medical expenses.",
+    "context": "For a 2-week Europe trip, key travel insurance features to look for: (1) Medical coverage minimum €30,000 (required for Schengen visa). (2) Emergency medical evacuation coverage. (3) Trip cancellation and interruption cover. (4) Baggage loss/delay cover. (5) 24/7 emergency assistance helpline. Recommended providers operating in India: Bajaj Allianz Travel Insurance, HDFC ERGO Travel, and Tata AIG Travel Guard. Compare on Policybazaar.com. Always read the pre-existing conditions clause carefully.",
+    "ground_truth": "For a Schengen trip, insurance must cover minimum €30,000 medical expenses (Schengen visa requirement), plus evacuation, trip cancellation, and baggage. Recommended India-based providers: Bajaj Allianz, HDFC ERGO, Tata AIG. Compare on Policybazaar.com. Check pre-existing conditions clause."
+}
